@@ -1,0 +1,33 @@
+# Android & Gradle Build Files
+*.iml
+.gradle/
+build/
+*/build/
+app/build/
+
+# Local Environment Variables & API Keys (DO NOT COMMIT)
+local.properties
+/local.properties
+*.env
+
+# IDE / Android Studio / IntelliJ Files
+.idea/
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/codeStyles/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Build Artifacts & Captures
+/captures
+.externalNativeBuild
+.cxx
+.kotlin/
+.artifacts/
+EOF

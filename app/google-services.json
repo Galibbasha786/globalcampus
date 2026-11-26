@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "487467306827",
+    "project_id": "globalcampus-8b119",
+    "storage_bucket": "globalcampus-8b119.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487467306827:android:ac40b74c75645ebe5722ce",
+        "android_client_info": {
+          "package_name": "com.globalcampus.support"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACejnT4silOj9x3Lr0FDB8MpFq1kKihVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487467306827:android:b20f92afb395aef35722ce",
+        "android_client_info": {
+          "package_name": "com.yourname.globalcampus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACejnT4silOj9x3Lr0FDB8MpFq1kKihVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
