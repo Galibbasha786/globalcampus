@@ -184,8 +184,8 @@ fun NavGraph() {
                 )
 
                 NavigationDrawerItem(
-                    label = { Text("Campus Navigator", fontWeight = FontWeight.SemiBold) },
-                    icon = { Icon(Icons.Default.Map, null, tint = SecondaryRoyalBlue) },
+                    label = { Text("LPU Satellite Navigation", fontWeight = FontWeight.SemiBold) },
+                    icon = { Icon(Icons.Default.Satellite, null, tint = SecondaryRoyalBlue) },
                     selected = currentRoute == Routes.NAVIGATOR,
                     onClick = {
                         scope.launch { drawerState.close() }

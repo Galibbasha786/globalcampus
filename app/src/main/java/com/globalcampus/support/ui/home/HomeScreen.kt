@@ -368,7 +368,7 @@ fun HomeScreen(
 
         AnimatedEntrance(delayMillis = 460) {
             Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(14.dp)) {
-                HomeFeatureCard("Campus Navigator", "Block Directory & Timings", Icons.Default.Map, LogoBlue, Modifier.weight(1f).offset(y = float1.dp), onOpenNavigator)
+                HomeFeatureCard("LPU Satellite Navigation", "Satellite Maps & GPS Walking Routes", Icons.Default.Satellite, LogoBlue, Modifier.weight(1f).offset(y = float1.dp), onOpenNavigator)
                 HomeFeatureCard("AI Doc Explainer", "Plain-English Document Summaries", Icons.Default.AutoAwesome, LogoRed, Modifier.weight(1f).offset(y = float2.dp), onOpenDocExplainer)
             }
         }
